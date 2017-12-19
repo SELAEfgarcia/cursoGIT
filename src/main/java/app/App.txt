@@ -1,0 +1,12 @@
+#include controlador/controlador.txt
+#include modelo/modelo.txt
+#include vista/vista.txt
+
+alta_usuario(){
+	Esto es una aplicación de alta de usuario
+	Chachi chachi
+}
+
+baja_usuario(){
+	Esto es una baja de usuario
+}
