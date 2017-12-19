@@ -6,6 +6,7 @@ alta_usuario(){
 	Esto es una aplicación de alta de usuario. El alta de usuario es super chachi
 	Chachi chachi
 	Mas cambios de alta
+	Vaya, que se me olvidó validar los datos en el alta
 }
 
 baja_usuario(){
