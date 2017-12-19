@@ -1,1 +1,2 @@
 Otro hotifx2
+>>>>>>> Forzando conflicto. Estoy en desarrollo
