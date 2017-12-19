@@ -7,8 +7,10 @@ alta_usuario(){
 	Chachi chachi
 	Mas cambios de alta
 	Vaya, que se me olvidó validar los datos en el alta
+	Se llama a controlador
 }
 
 baja_usuario(){
 	Esto es una baja de usuario
+	Se llama a controlador
 }

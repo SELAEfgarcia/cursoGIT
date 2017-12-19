@@ -1,1 +1,2 @@
-vista
+Se llama a alta
+Se llama a baja
