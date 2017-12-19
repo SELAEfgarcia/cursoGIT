@@ -1,1 +1,2 @@
-modelo
+Se llama a alta del modelo
+Se llama a baja del modelo
