@@ -1,0 +1,16 @@
+Aplicar git flow a un desarrollo de una aplicación web
+
+-  Rama master = producción
+-  Rama develop = se vuelcan todos los desarrollos que se van creando
+-  Rama de preproducción o testing (release branching)
+-  Rama por cada "desarrollo" (etapa)
+-  Rama por cada capa de proyecto
+-  Rama para errores
+
+En la aplicación aplicaremos
+- Fase de análisis, resultado una base para el desarrollo (arquitectura)
+- Arquitectura de tres capas Modelo, Vista, Controlador
+- Dos entregas distintas
+	- Primera: alta y baja de un usuario
+	- Segunda: consulta de datos de usuario
+- Durante la segunda entrega, se solventarán dos errores, uno en el alta y otro en la baja
