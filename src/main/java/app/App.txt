@@ -8,7 +8,7 @@ alta_usuario(){
 	Mas cambios de alta
 	Vaya, que se me olvidó validar los datos en el alta
 	Se llama a controlador
-	El alta es mejor
+	El alta es mejor y con una calidad super
 }
 
 baja_usuario(){
@@ -17,5 +17,5 @@ baja_usuario(){
 }
 
 entrega1(){
-	En la entrega1 del ejercicio haremos algo
+	En la entrega1 del ejercicio haremos algo y con una calidad super
 }
