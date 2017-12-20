@@ -1,3 +1,4 @@
 alta_usuario_en_controlador
 Mas cambios de alta
 Modelo debe validar datos
+Super ...

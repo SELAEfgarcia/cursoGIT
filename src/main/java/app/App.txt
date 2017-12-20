@@ -8,6 +8,7 @@ alta_usuario(){
 	Mas cambios de alta
 	Vaya, que se me olvidó validar los datos en el alta
 	Se llama a controlador
+	El alta es mejor
 }
 
 baja_usuario(){
