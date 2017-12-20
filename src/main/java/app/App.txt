@@ -15,3 +15,7 @@ baja_usuario(){
 	Esto es una baja de usuario
 	Se llama a controlador
 }
+
+entrega1(){
+	En la entrega1 del ejercicio haremos algo
+}
